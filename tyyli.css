@@ -10,6 +10,11 @@ BODY {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
+    position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
 }
 
 .esittely {
@@ -21,16 +26,27 @@ BODY {
 
 .kuva1 {
    
-    
+    max-width: 49%;
+    max-height: 100vh;
+    margin: auto;
     padding: 5px;
-    
+    position:left;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
 }
 
 .kuva2 {
-    
-    
+    max-width: 49%;
+    max-height: 100vh;
+    margin:auto;
     padding: 5px;
-    
+    position:right;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
     
 }
 
