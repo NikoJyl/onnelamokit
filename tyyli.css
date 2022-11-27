@@ -20,15 +20,15 @@ BODY {
 }
 
 .kuva1 {
-    float: center;
-    width: 49%;
+   
+    
     padding: 5px;
     
 }
 
 .kuva2 {
-    float: center;
-    width: 49%;
+    
+    
     padding: 5px;
     
     
@@ -51,4 +51,3 @@ a {
     
 
 }
-
