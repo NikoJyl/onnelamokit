@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+    top: auto;
+    font-size: 95px;
+    color:rgb(255, 255, 255);
+}
+
+BODY {
+    background: url('tausta.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.esittely {
+    text-align: center;
+    top: auto;
+    font-size: 45px;
+    color:rgb(255, 255, 255);
+}
+
+.kuva1 {
+    float: center;
+    width: 49%;
+    padding: 5px;
+    
+}
+
+.kuva2 {
+    float: center;
+    width: 49%;
+    padding: 5px;
+    
+    
+}
+
+p {
+    
+    top: auto;
+    font-size: 35px;
+    color:rgb(255, 255, 255);
+}
+
+
+
+
+a {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10%;
+    
+
+}
+
