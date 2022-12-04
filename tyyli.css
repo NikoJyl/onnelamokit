@@ -49,17 +49,9 @@ BODY {
 
 .kuva1 {
    
-    max-width: 49vh;
-    max-height: 100vh;
-    margin: auto;
-    padding: 5px;
-    position:left;
-    top:0;
-    bottom:0;
-    left:0;
-    right:0;
+    max-width: 23%;  
     animation: travel 6s;
-    border-width: 7px;
+    
     border-style: solid;
     border-color:rgb(37, 37, 37);
     background-color: rgb(37, 37, 37) ;
@@ -68,17 +60,9 @@ BODY {
 }
 
 .kuva2 {
-    max-width: 49vh;
-    max-height: 100vh;
-    margin:auto;
-    padding: 5px;
-    position:right;
-    top:0;
-    bottom:0;
-    left:0;
-    right:0;
+    max-width: 23%;   
     animation: travel 6s;
-    border-width: 7px;
+    
     border-style: solid;
     border-color:rgb(37, 37, 37);
     background-color: rgb(37, 37, 37) ;
@@ -91,8 +75,6 @@ p {
     color:rgb(255, 255, 255);
     font-family: 'Rye';
 }
-
-
 
 
 a {
