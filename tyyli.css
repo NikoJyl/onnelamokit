@@ -22,9 +22,8 @@ BODY {
 .esittely {
     text-align: center;
     top: auto;
-    font-size: 4vw;
+    font-size: 3vw;
     color:rgb(255, 255, 255);
-    font-size: 35px;
     padding: 50px;
     font-family: 'Rye';
 }
@@ -32,9 +31,8 @@ BODY {
 .teksti {
     text-align: center;
     top: auto;
-    font-size: 2vw;
+    font-size: 3vw;
     color:rgb(255, 255, 255);
-    font-size: 35px;
     font-family: 'Rye';
 }
 
@@ -49,7 +47,12 @@ BODY {
 
 .kuva1 {
    
-    max-width: 23%;  
+    max-width: 23%;
+    
+   
+    
+    
+    
     animation: travel 6s;
     
     border-style: solid;
@@ -60,7 +63,12 @@ BODY {
 }
 
 .kuva2 {
-    max-width: 23%;   
+    max-width: 23%;
+    
+    
+    
+    
+    
     animation: travel 6s;
     
     border-style: solid;
@@ -75,6 +83,8 @@ p {
     color:rgb(255, 255, 255);
     font-family: 'Rye';
 }
+
+
 
 
 a {
